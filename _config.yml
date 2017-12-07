@@ -23,7 +23,7 @@ description: Academic website and blog
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Home: "home"
   Research: "research"
   Publications: "publications"
   Blog: "blog"
@@ -45,8 +45,8 @@ avatar: "/img/avatar-icon.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
-# navbar-img: "/img/bgimage.png"
+navbar-col: "orange"
+navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
@@ -59,21 +59,10 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Jianlong Zhou
   email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
   linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -131,7 +120,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
