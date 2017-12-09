@@ -23,7 +23,7 @@ description: Academic website and blog
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
+  Home: "index.html"
   Research: "research"
   Publications: "publications"
   Blog: "blog"
@@ -47,8 +47,8 @@ avatar: "/img/avatar-icon.png"
 # for the navigation bar, the main page, and the footer.
 navbar-col: "orange"
 navbar-img: "/img/bgimage.png"
-# footer-col: "blue"
-# footer-img: "/img/bgimage.png"
+footer-col: "blue"
+footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
 
