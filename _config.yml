@@ -59,7 +59,7 @@ footer-img: "/img/bgimage.png"
 author:
   name: Jianlong Zhou
   email: "youremail@domain.com"
-  github: yourname    # eg. daattali
+  #github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourname  # eg. daattali
   telephone: yourphone   # eg. +14159998888
