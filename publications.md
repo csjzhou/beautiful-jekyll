@@ -14,7 +14,7 @@ title: Publications
 
 **DISCLAIMER:** The PDF files of following papers are presented to ensure timely dissemination of scientific work. Copyright and all rights therein belong to authors or other copyright holders.
 
-### 2017
+### Selected Publications
 - **Jianlong Zhou** and F. Chen. DecisionMind: Revealing Human Cognition States in Data Analytics-Driven Decision 
 Making with a Multimodal Interface. Journal on Multimodal User Interfaces, (Springer), 2017. ([PDF](./papers/DecisionMind_JMUI2017.pdf))
 
@@ -25,6 +25,7 @@ contribution with international impact in the field of human interaction with, a
 ([PDF](./papers/INTERACT2017_Effects_Trust.pdf))
 
 
+### Publications
 <div>
 <h3>HCI and Transparent Machine Learning </h3>
         <ol class="start"> <!-- -->
@@ -320,7 +321,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
           <h3>Published Books Information </h3>
 			<div id="feature">
 	         <a href="http://link.springer.com/book/10.1007%2F978-3-319-31700-7#page-1">
-              <img src="Dr.%20Zhou's%20Publications_files/clm_book.jpg" class="alignleft" alt="clm_book.jpg" width="120" height="160"></a>
+              <img src="/img/clm_book.jpg" class="alignleft" alt="clm_book.jpg" width="120" height="160"></a>
               <h4>Robust Multimodal Cognitive Load Measurement </h4>
               <p>
                 Fang Chen, <b>Jianlong Zhou</b>, Yang Wang, Kun Yu, Syed Z. Arshad, Ahmad Khawaji, and Dan Conway.<br> 
@@ -332,7 +333,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
 				
 			<div id="feature">
 	         <a href="http://www.amazon.com/Gaining-Insights-Into-Volumetric-Visualization/dp/3659134848/ref=sr_1_1?ie=UTF8&amp;qid=1338002123&amp;sr=8-1">
-              <img src="Dr.%20Zhou's%20Publications_files/amazon_cover.jpg" class="alignleft" alt="amazon_cover.jpg" width="120" height="160"></a>
+              <img src="/img/amazon_cover.jpg" class="alignleft" alt="amazon_cover.jpg" width="120" height="160"></a>
               <h4>Gaining Insights Into Volumetric Data Visualization:  
                 A Semi-Automatic Transfer Function Generation Approach Using Contour Tree Analyses </h4>
               <p>
@@ -345,7 +346,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
 
                 <div id="feature">
 	               <a href="http://www.sinolib.com/138536492064277.html">
-                    <img src="Dr.%20Zhou's%20Publications_files/cgbook.jpg" class="alignleft" alt="cgbook.jpg" width="120" height="160"></a>
+                    <img src="/img/cgbook.jpg" class="alignleft" alt="cgbook.jpg" width="120" height="160"></a>
                     <h4>计算机图形学理论与OpenGL编程实践.(Computer Graphics and OpenGL Programming) </h4>
                     <p>
                       周建龙, 肖春 编著. (Jianlong Zhou and Chun Xiao) <br>
@@ -357,7 +358,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
 
                       <div id="feature">
 	                     <a href="http://www.sinolib.com/130939319596528.html">
-                          <img src="Dr.%20Zhou's%20Publications_files/no_cover_thumb.gif" class="alignleft" alt="no_cover_thumb.gif" width="120" height="160"></a>
+                          <img src="/img/no_cover_thumb.gif" class="alignleft" alt="no_cover_thumb.gif" width="120" height="160"></a>
                           <h4>AutoCAD 2000 从入门到精通. (Mastering AutoCAD 2000)</h4>
                           <p>
                             周建龙 编著. (Jianlong Zhou) <br>
@@ -369,7 +370,7 @@ pages 195-200, Hongkong, China. (<a href="https://csjzhou.github.io/homepage/pap
 
                             <div id="feature">
 	                           <a href="http://www.sinolib.com/130986767956152.html">
-                                <img src="Dr.%20Zhou's%20Publications_files/autocadr14_cover.jpg" class="alignleft" alt="autocadr14_cover.jpg" width="120" height="160"></a>
+                                <img src="/img/autocadr14_cover.jpg" class="alignleft" alt="autocadr14_cover.jpg" width="120" height="160"></a>
                                 <h4>AutoCAD R14 从入门到精通. (Mastering AutoCAD R14)</h4>
                                 <p>
                                   周建龙, 谭小勇 编著. (Jianlong Zhou and Xiaoyong Tan) <br>
