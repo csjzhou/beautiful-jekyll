@@ -3,9 +3,9 @@ title: "Search csjzhou.github.io"
 css: "/css/search.css"
 ---
 
-# Search deanattali.com
+# Search csjzhou.github.io
 
-### Using the Amazing Google
+### Using Google
 
 <div id="google-custom-search">
 <script>
