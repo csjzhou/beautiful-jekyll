@@ -26,12 +26,13 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   Blog: "blog"
+  Links: "links"
 
 # --- Google custom search config --- #
 # search page name search
 nav-search: "search"
 # google-site-verification
-google-site-verification: 'SDbEwJuI9jkW1VQ2BuIkjkxV8kMAFhDxoKfrFJhFikw'
+#google-site-verification: 'SDbEwJuI9jkW1VQ2BuIkjkxV8kMAFhDxoKfrFJhFikw'
 
 # --- Background colour/image options --- #
 
