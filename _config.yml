@@ -110,7 +110,7 @@ title-separator: "-"
 
 # --- Pagination options --- #
 paginate: 5
-paginate_path: "/_posts/page:num/"
+paginate_path: "/blog/page:num/"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -119,7 +119,7 @@ timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+
 
 kramdown:
   input: GFM
