@@ -23,6 +23,7 @@ description: Academic website and blog
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   Research: "research"
   Publications: "publications"
   Blog: "blog"
