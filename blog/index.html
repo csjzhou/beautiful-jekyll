@@ -1,7 +1,7 @@
 ---
+layout: page
+title: Blogs
 ---
-
-<img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -21,10 +21,11 @@
     </p>
 
     <div class="post-entry">
-      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+      {{ post.content | strip_html | xml_escape | truncatewords: 30}}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
-  </article>
+
+   </article>
   {% endfor %}
 </div>
 
