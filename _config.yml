@@ -87,6 +87,10 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 #url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
+# --- Pagination options --- #
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
@@ -108,9 +112,6 @@ excerpt_length: 50
 # and RSS feed title
 title-separator: "-"
 
-# --- Pagination options --- #
-paginate: 5
-paginate_path: "/blog/page:num/"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
