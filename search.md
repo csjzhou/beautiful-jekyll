@@ -1,3 +1,4 @@
+---
 layout: default
 title: "Search csjzhou.github.io"
 css: "/css/search.css"
