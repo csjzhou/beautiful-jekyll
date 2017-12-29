@@ -18,7 +18,7 @@ bigimg:
 **Jianlong Zhou**  
 PhD, Senior Research Scientist  
 IEEE Senior Member  
-DATA61, CSIRO
+[DATA61](https://www.data61.csiro.au/), [CSIRO](https://www.csiro.au/)
 
 **Contact:**  
 Australian Technology Park  
