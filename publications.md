@@ -3,7 +3,14 @@ layout: page
 title: Publications
 ---
 
-[Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=xJCM8XQAAAAJ)
+<div align="center">
+<a href="https://www.researchgate.net/profile/Jianlong_Zhou/" target="_blank">ResearchGate</a> |
+<a href="http://dblp.uni-trier.de/pers/hd/z/Zhou:Jianlong" target="_blank">DBLP</a> |
+<a href="https://scholar.google.com/citations?user=xJCM8XQAAAAJ" target="_blank">Google Scholar</a>
+</div>
+
+----
+
 
 **DISCLAIMER:** The PDF files of following papers are presented to ensure timely dissemination of scientific work. Copyright and all rights therein belong to authors or other copyright holders.
 
