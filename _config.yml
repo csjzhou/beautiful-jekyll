@@ -23,20 +23,15 @@ description: Academic website and blog
 
 # List of links in the navigation bar
 navbar-links:
-  #Home: ""
   Research: "research"
   Publications: "publications"
   Blog: "blog"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-nav-search: "search"
+
 # --- Google custom search config --- #
-# search page name search -> /seach.md
-#nav-search: "search"
+# search page name search
+nav-search: "search"
 # google-site-verification
-#google-site-verification: 'SDbEwJuI9jkW1VQ2BuIkjkxV8kMAFhDxoKfrFJhFikw'
+google-site-verification: 'SDbEwJuI9jkW1VQ2BuIkjkxV8kMAFhDxoKfrFJhFikw'
 
 # --- Background colour/image options --- #
 
