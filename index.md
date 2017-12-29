@@ -15,6 +15,19 @@ bigimg:
   - "/img/big-imgs/syd_bridge.jpg" : ""
 ---
 
+PhD, Senior Research Scientist
+IEEE Senior Member
+DATA61, CSIRO
+
+Contact:
+
+Australian Technology Park
+13 Garden Street | Eveleigh, NSW 2015 | Australia
+Tel: +61 2 9490 5723
+Email: jianlong.zhou [at] data61.csiro.au
+
+
+
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
 <a href="http://" role="button" class="btn btn-primary">Python</a> 
