@@ -6,11 +6,6 @@ published: true
 
 
 ----
-<div class="list-filters">
-  <a href="/" class="list-filter">All posts</a>
-  <a href="/popular" class="list-filter">Most Popular</a>
-  <span class="list-filter filter-selected">Tutorials</span>
-</div>
 
 <div class="posts-list">
   {% for post in site.tags.research-project %}
