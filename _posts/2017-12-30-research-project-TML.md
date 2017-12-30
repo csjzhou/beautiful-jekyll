@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Transparent Machine Learning"
-tags: [professional, research-project]
-date: 2017-12-30 
+title: Transparent Machine Learning
+tags:
+  - professional
+  - research-project
+date: 'Sat Dec 30 2017 11:00:00 GMT+1100 (AUS Eastern Standard Time)'
+published: true
 ---
 
-##Background
+## Background
 Machine Learning (ML) is currently facing prolonged challenges with the user acceptance of delivered solutions as well as 
 seeing system misuse, disuse, or even failure. Significant barriers to the adoption of ML approaches exist in the areas 
 of trust (of ML results), comprehension (of ML processes) and related workload, as well as confidence 
@@ -24,8 +27,7 @@ improvements of the existing state of practice, for example,
 - TML can help detect causes for an adverse decision and therefore can provide guidance on how to reverse it;
 - TML allows effective interactions with ML algorithms, thus provides opportunities to improve impact of ML algorithms in real-world applications.
 
-##Technologies
+## Technologies
 We propose the following approaches:
 - ***2D Transparency Space***: a framework integrating both ML experts and domain users as active participants into the overall workflow of ML-based solutions.
 - ***DecisionMind***: a pipeline revealing human cognition states ML-based decision making with multimodal interfaces.
-
