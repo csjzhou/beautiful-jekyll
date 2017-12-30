@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Transparent Machine Learning
+image: /img/decision-mind.png
+show-avatar: true
 tags:
+  - TML
   - professional
   - research-project
 date: 'Sat Dec 30 2017 11:00:00 GMT+1100 (AUS Eastern Standard Time)'
