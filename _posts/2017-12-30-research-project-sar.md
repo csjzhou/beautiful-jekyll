@@ -13,3 +13,34 @@ published: true
 In automotive manufacturing, the quality of spot welding on car bodies needs to be inspected frequently. The manual inspection process suffers from inefficiencies and potential mistakes. This research describes a Spatial Augmented Reality (SAR) based system that projects visual data onto arbitrary surfaces for providing just-in-time information to a user in-situ within a physical work-cell. SAR facilitates presentation of projected digital Augmented Reality (AR) information on surfaces of car bodies. 
 
 ![Spatial Augmented Reality in industry](/img/WeldingSpotsAll.jpg)
+
+## Selected Publications
+
+<div>
+<ol start="1">
+          <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas, Roland 
+Menassa, Anthony Farrant and Andrew Sansome. In-Situ Support for 
+Automotive Manufacturing Using Spatial Augmented Reality. International 
+Journal of Virtual Reality. 11(1): 33-41, 2012. (<a href="http://wearables.unisa.edu.au/wp-content/plugins/bib2html/data/2012/In-Situ%20Support%20for%20Automotive%20Manufacturing%20Using%20Spatial/insitusupport.pdf">PDF</a>) <a href="#" onclick="stm(['BibTex', '@article{zhou2012sar, <br/>      author    = {Zhou, Jianlong and Lee, Ivan and Thomas, Bruce and Menassa, Roland and Farrant, Anthony and Sansome, Andrew}, <br/>       title     = {In-Situ Support for Automotive Manufacturing Using Spatial Augmented Reality}, <br/>       journal   = {International Journal of Virtual Reality}, <br/>      volume    = {11}, <br/>     number    = {1}, <br/>     pages    = {33--41}, <br/>      year      = {2012}, <br/>  } '],Style[5])" onmouseout="htm()">(BibTex)</a></li>
+		  <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas and Andrew Sansome.
+ Facilitating Collaboration with Laser Projector-Based Spatial Augmented
+            Reality in Industrial Applications. In Mobile Collaborative 
+Augmented Reality: Recent Trends, 2010, ISBN 978-1-4419-9844-6, pages 
+149-160, Springer. 
+	         (<a href="/papers/MCAR2010.pdf">PDF</a>)</li>
+
+            <!-- <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas, Roland Menassa, Anthony Farrant and Andrew Sansome. Augmentation of Linearly Moving Objects with -->
+            <!--   Rotatable Projector. To be submitted 2012. -->
+          <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas, Roland 
+Menassa, Anthony Farrant and Andrew Sansome. Applying Spatial Augmented 
+Reality to
+            Facilitate In-Situ Support for Automotive Spot Welding 
+Inspection. Proceedings of ACM SIGGRAPH The 10th International 
+Conference on Virtual
+            Reality Continuum and Its Applications in Industry 2011, 
+pages 195-200, Hongkong, China. (<a href="/papers/WeldingVRCAI2011.pdf">PDF</a>) </li>
+
+          <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas and Andrew Sansome. Spatial Augmented Reality for In-Situ Support for the Automotive Industry. In
+            Proceedings of AutoCRC Technical Conference 2011, July 2011.</li>
+ </ol>
+ </div>
