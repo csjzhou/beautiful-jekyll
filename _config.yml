@@ -26,8 +26,8 @@ navbar-links:
   Home: "index"
   Research: "research"
   Publications: "publications"
-  Blog: "blog"
   Links: "links"
+  Blog: "blog"
 
 # --- Google custom search config --- #
 # search page name search
