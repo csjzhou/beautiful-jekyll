@@ -16,9 +16,7 @@ entertainment, and museums. SAR is now aviable option for use in an industrial s
 
 In automotive manufacturing, the quality of spot welding on car bodies needs to be inspected frequently. The manual inspection process suffers from inefficiencies and potential mistakes. This research describes a Spatial Augmented Reality (SAR) based system that projects visual data onto arbitrary surfaces for providing just-in-time information to a user in-situ within a physical work-cell. SAR facilitates presentation of projected digital Augmented Reality (AR) information on surfaces of car bodies. 
 
-![Spatial Augmented Reality in industry](/img/WeldingSpotsAll.jpg) <!-- .element height="50%" width="50%" -->
-
-![Spatial Augmented Reality in industry](/img/WeldingSpotsAll.jpg=150x)
+![Spatial Augmented Reality in industry](/img/WeldingSpotsAll.jpg) {:height="50%" width="50%"}
 
 ## Selected Publications
 
