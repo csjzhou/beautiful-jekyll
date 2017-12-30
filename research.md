@@ -59,8 +59,4 @@ published: true
   {% endfor %}
 </div>
 
-<ul class="pager main-pager">
-  <li>
-    <a href="{{site.baseurl}}/blog">Archive </a>
-  </li>
-</ul>
+
