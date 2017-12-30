@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spatial Augmented Reality
-image: "/img/WeldingSpotsAll.jpg"
+image: /img/WeldingSpotsAll.jpg
 show-avatar: true
 tags:
   - SAR
@@ -11,7 +11,7 @@ date: 'Sat Dec 30 2017 11:00:00 GMT+1100 (AUS Eastern Standard Time)'
 published: true
 ---
 
-Spatial Augmented Reality (SAR) employs data projectors to superimpose computer generated virtual objects directly onto physical objects' surfaces. The user then views and interacts with the digital information directly projected onto the surfaces within a workspace in a natural manner. SAR has been employed in a number of application domains, such as design,
+> Spatial Augmented Reality (SAR) employs data projectors to superimpose computer generated virtual objects directly onto physical objects' surfaces. The user then views and interacts with the digital information directly projected onto the surfaces within a workspace in a natural manner. SAR has been employed in a number of application domains, such as design,
 entertainment, and museums. SAR is now aviable option for use in an industrial setting.
 
 In automotive manufacturing, the quality of spot welding on car bodies needs to be inspected frequently. The manual inspection process suffers from inefficiencies and potential mistakes. This research describes a Spatial Augmented Reality (SAR) based system that projects visual data onto arbitrary surfaces for providing just-in-time information to a user in-situ within a physical work-cell. SAR facilitates presentation of projected digital Augmented Reality (AR) information on surfaces of car bodies. 
