@@ -7,8 +7,6 @@ published: true
 
 
 ----
-<h1 class="text-center">Recent Posts</h1>
-<div class="spacer"></div>
 
 <div class="posts-list">
   {% for post in site.posts limit:5 %}
