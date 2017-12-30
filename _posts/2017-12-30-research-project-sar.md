@@ -18,7 +18,7 @@ In automotive manufacturing, the quality of spot welding on car bodies needs to 
 
 # ![Spatial Augmented Reality in industry](/img/WeldingSpotsAll.jpg =250x) 
 
-<img src="/img/WeldingSpotsAll.jpg" width=50% />
+<img src="/img/WeldingSpotsAll.jpg" width="50%" />
 
 ## Selected Publications
 
