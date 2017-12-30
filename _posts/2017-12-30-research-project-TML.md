@@ -9,6 +9,7 @@ published: true
 ---
 
 ## Background
+
 Machine Learning (ML) is currently facing prolonged challenges with the user acceptance of delivered solutions as well as 
 seeing system misuse, disuse, or even failure. Significant barriers to the adoption of ML approaches exist in the areas 
 of trust (of ML results), comprehension (of ML processes) and related workload, as well as confidence 
@@ -28,6 +29,7 @@ improvements of the existing state of practice, for example,
 - TML allows effective interactions with ML algorithms, thus provides opportunities to improve impact of ML algorithms in real-world applications.
 
 ## Technologies
+
 We propose the following approaches:
 - ***2D Transparency Space***: a framework integrating both ML experts and domain users as active participants into the overall workflow of ML-based solutions.
 - ***DecisionMind***: a pipeline revealing human cognition states ML-based decision making with multimodal interfaces.
