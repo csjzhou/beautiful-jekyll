@@ -8,6 +8,9 @@ date: 'Sat Dec 30 2017 11:00:00 GMT+1100 (AUS Eastern Standard Time)'
 published: true
 ---
 
+> Making ‘black-box’ machine learning easily understandable and useable by domain experts in order to make high quality decisions confidently.
+
+
 ## Background
 
 Machine Learning (ML) is currently facing prolonged challenges with the user acceptance of delivered solutions as well as 
@@ -15,6 +18,10 @@ seeing system misuse, disuse, or even failure. Significant barriers to the adopt
 of trust (of ML results), comprehension (of ML processes) and related workload, as well as confidence 
 (in decision making based on ML results) by users. These fundamental challenges can be attributed to 
 the nature of ``black-box'' of ML for domain users when offering ML-based solutions.
+
+<center>
+<img src="/img/black-box-pipeline.png" width="80%" />
+</center>
 
 Therefore, besides the development of ML algorithms, research of introducing human into the ML loop (human-in-the-loop ML) 
 and making ML transparent is emerging as one of active research fields recently. Other terms are also used to refer to such
@@ -33,3 +40,7 @@ improvements of the existing state of practice, for example,
 We propose the following approaches:
 - ***2D Transparency Space***: a framework integrating both ML experts and domain users as active participants into the overall workflow of ML-based solutions.
 - ***DecisionMind***: a pipeline revealing human cognition states ML-based decision making with multimodal interfaces.
+
+<center>
+<img src="/img/decision-mind.png" width="80%" />
+</center>
