@@ -47,3 +47,41 @@ We propose the following approaches:
 <center>
 <img src="/img/decision-mind.png" width="80%" />
 </center>
+
+## Selected Publications
+
+<div>
+<ol class="start">
+		  <li><b>Jianlong Zhou</b> and F. Chen. DecisionMind: Revealing Human 
+Cognition States in Data Analytics-Driven Decision Making with a 
+Multimodal Interface. Journal on Multimodal User Interfaces, (Springer),
+ 2017. (<a href="/papers/DecisionMind_JMUI2017.pdf">PDF</a>)</li>
+		  <li><b>Jianlong Zhou</b>, S. Z. Arshad S. Luo and F. Chen. Effects 
+of Uncertainty and Cognitive Load on User Trust in Predictive Decision 
+Making. the 16th IFIP TC.13 International Conference on Human-Computer 
+Interaction (INTERACT 2017), 2017.(Reviewer’s Choice Award), (“The Brian
+ Shackel Award” in recognition of the most outstanding contribution with
+ international impact in the field of human interaction with, and human 
+use of, computers and information technology). (<a href="/papers/INTERACT2017_Effects_Trust.pdf">PDF</a>)</li>
+		  <li><b>Jianlong Zhou</b>, Syed Z. Arshad, Xiuying Wang, Zhidong Li, 
+David Feng, and Fang Chen. End-User Development for Interactive Data 
+Analytics: Uncertainty, Correlation and User Confidence. IEEE 
+Transactions on Affective Computing, 2017. In press. (<a href="/papers/IEEETAC2017_confidence.pdf">PDF</a>)</li>
+		  <li><b>Jianlong Zhou</b>, Jinjun Sun, Yang Wang, and Fang Chen. 
+Wrapping Practical Problems into a Machine Learning Framework —Using 
+Water Pipe Failure Prediction as a Case Study. 
+		  International Journal of Intelligent Systems Technologies and 
+Applications, vol. 16, No. 3, pp.191-207, 2017. (<a href="/papers/IJISTA2017_waterpipeWrapping.pdf">PDF</a>)</li>
+		  <li><b>Jianlong Zhou</b>, Syed Z. Arshad, Kun Yu and Fang Chen. Correlation for User Confidence in Predictive Decision Making, 
+		  OzCHI2016, 2016. (<a href="/papers/OzCHI2016_Correlation_final.pdf">PDF</a>)</li>
+		  <li><b>Jianlong Zhou</b> and Fang Chen. Making Machine Learning Useable. International Journal of Intelligent Systems Technologies and Applications, 
+		  vol. 14, no. 2, pp.91-109, 2015. (<a href="/papers/Making_ML_useable_JISTA_2015.pdf">PDF</a>)</li>
+		  <li><b>Jianlong Zhou</b>, Constant Bridon, Fang Chen, Ahmad Khawaji, and Yang Wang. Be Informed and Be Involved: 
+		  Effects of Uncertainty and Correlation on User’s Confidence in Decision Making. Proceedings of the 33rd Annual 
+		  ACM Conference Extended Abstracts on Human Factors in Computing Systems (CHI'15), Pages 923-928, 2015.
+		  (<a href="/papers/uncertainty_confidence_CHI2015-zhou.pdf">PDF</a>)</li>
+		  <li><b>Jianlong Zhou</b>, Jinjun Sun, Fang Chen, Yang Wang, Ronnie Taib, Ahmad Khawaji, and Zhidong Li. 
+		  Measurable Decision Making with GSR and Pupillary Analysis for Intelligent User Interface. 
+		  ACM Transactions on Computer-Human Interaction (ToCHI), vol. 21, no. 6, article no. 33, 2015. (<a href="/papers/Measurable_decision_ToCHI2015.pdf">PDF</a>)</li>
+</ol>
+</div>
