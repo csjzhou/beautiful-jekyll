@@ -28,19 +28,8 @@ Journal of Virtual Reality. 11(1): 33-41, 2012. (<a href="http://wearables.unisa
 Augmented Reality: Recent Trends, 2010, ISBN 978-1-4419-9844-6, pages 
 149-160, Springer. 
 	         (<a href="/papers/MCAR2010.pdf">PDF</a>)</li>
-
             <!-- <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas, Roland Menassa, Anthony Farrant and Andrew Sansome. Augmentation of Linearly Moving Objects with -->
             <!--   Rotatable Projector. To be submitted 2012. -->
-          <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas, Roland 
-Menassa, Anthony Farrant and Andrew Sansome. Applying Spatial Augmented 
-Reality to
-            Facilitate In-Situ Support for Automotive Spot Welding 
-Inspection. Proceedings of ACM SIGGRAPH The 10th International 
-Conference on Virtual
-            Reality Continuum and Its Applications in Industry 2011, 
-pages 195-200, Hongkong, China. (<a href="/papers/WeldingVRCAI2011.pdf">PDF</a>) </li>
-
-          <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas and Andrew Sansome. Spatial Augmented Reality for In-Situ Support for the Automotive Industry. In
-            Proceedings of AutoCRC Technical Conference 2011, July 2011.</li>
+     <li><b>Jianlong Zhou</b>, Ivan Lee, Bruce Thomas, Roland Menassa, Anthony Farrant and Andrew Sansome. Applying Spatial Augmented Reality to Facilitate In-Situ Support for Automotive Spot Welding Inspection. Proceedings of ACM SIGGRAPH The 10th International Conference on Virtual Reality Continuum and Its Applications in Industry 2011, pages 195-200, Hongkong, China. (<a href="/papers/WeldingVRCAI2011.pdf">PDF</a>) </li>
  </ol>
  </div>
