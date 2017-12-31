@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visual Analytics of Volume and Time Series Data
+title: Data Visual Analytics
 image: /img/WeldingSpotsAll.jpg
 show-avatar: true
 tags:
