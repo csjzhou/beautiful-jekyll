@@ -8,8 +8,7 @@ published: true
 
 ----
 
-* TOC
-{:toc}
+<%- toc(page.content) %>
 
 <div class="posts-list">
   {% for post in site.tags.research-project %}
