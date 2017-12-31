@@ -5,9 +5,7 @@ image: /img/WeldingSpotsAll.jpg
 show-avatar: true
 tags:
   - SAR
-  - professional
   - research-project
-date: 'Sat Dec 30 2017 11:00:00 GMT+1100 (AUS Eastern Standard Time)'
 published: true
 ---
 
