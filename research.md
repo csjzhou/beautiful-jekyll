@@ -8,6 +8,9 @@ published: true
 
 ----
 
+* TOC
+{:toc}
+
 <div class="posts-list">
   {% for post in site.tags.research-project %}
   <article class="post-preview">
