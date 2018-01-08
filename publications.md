@@ -15,6 +15,8 @@ title: Publications
 **DISCLAIMER:** The PDF files of following papers are presented to ensure timely dissemination of scientific work. Copyright and all rights therein belong to authors or other copyright holders.
 
 ### Selected Publications
+- Fang Chen, **Jianlong Zhou**, and Kun Yu. Multimodal and Data-Driven Cognitive Load Measurement. In R. Zheng eds. Cognitive Load Measurement and Applications, chapter 10, pages147-163, Routledge, New York and London, 2018.
+
 - **Jianlong Zhou** and F. Chen. DecisionMind: Revealing Human Cognition States in Data Analytics-Driven Decision 
 Making with a Multimodal Interface. Journal on Multimodal User Interfaces, (Springer), 2017. ([PDF](./papers/DecisionMind_JMUI2017.pdf))
 
@@ -23,6 +25,7 @@ Trust in Predictive Decision Making. the 16th IFIP TC.13 International Conferenc
 (INTERACT 2017), 2017.(Reviewer’s Choice Award), (“The Brian Shackel Award” in recognition of the most outstanding 
 contribution with international impact in the field of human interaction with, and human use of, computers and information technology). 
 ([PDF](./papers/INTERACT2017_Effects_Trust.pdf))
+
 
 
 ### Publications
