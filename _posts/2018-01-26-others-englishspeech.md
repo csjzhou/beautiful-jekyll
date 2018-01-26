@@ -1,3 +1,12 @@
+---
+layout: post
+title: Eddie Woo's Speech
+show-avatar: true
+tags:
+  - others
+  - English speech
+published: true
+---
 
 1月26日晚上，在悉尼音乐厅，Eddie Woo成为了澳洲史上第一位在国庆庆典上进行演讲的华裔（马来西亚华人，他的祖父母在上个世纪二十年代举家迁往马来西亚）。
 
