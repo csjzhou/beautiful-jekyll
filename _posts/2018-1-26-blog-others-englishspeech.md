@@ -3,6 +3,7 @@ layout: post
 title: Eddie Woo's Australian Day's Address
 show-avatar: true
 tags:
+  - blogs
   - others
   - English address
 published: true
