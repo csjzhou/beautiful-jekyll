@@ -29,9 +29,9 @@ This English speech is great and it is worth to read by any immigrants carefully
 
 Eddie Woo是标准的学霸，高中就读于新州排名第一的James Ruse,毕业时成绩排名处于全澳最顶尖的2%之列， 并在排名全球前三十的悉尼大学获得他的教育专业学位。Eddie 现在是全澳最大公立中学Cherrybrook Technology High School（2000余名学生）的首席数学老师。
 
-<iframe class="video_iframe" data-vidtype="2" allowfullscreen="" frameborder="0" data-ratio="1.7666666666666666" data-w="848" data-src="https://v.qq.com/iframe/preview.html?vid=w053875b53m&amp;width=500&amp;height=375&amp;auto=0"></iframe>
+<iframe width="500" hight="375" frameborder="0" allowfullscreen src="https://v.qq.com/iframe/preview.html?vid=w053875b53m&amp"></iframe>
 
-视频来自Eddie Woo的facebook。
+视频来自Eddie Woo的facebook.
 
 ### Address
 
