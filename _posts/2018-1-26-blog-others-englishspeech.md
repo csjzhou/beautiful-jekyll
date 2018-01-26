@@ -33,7 +33,9 @@ Eddie Woo是标准的学霸，高中就读于新州排名第一的James Ruse,毕
 
 视频来自Eddie Woo的facebook。
 
-## Address
+---
+### Address
+---
 
 His Excellency the Governor of New South Wales and Mrs Hurley – the Honourable Gladys Berejiklian, Premier of New South Wales – Chairman and board members of the Australia Day Council of New South Wales, Distinguished Guests, Ladies and Gentlemen.（这一段翻译就免去了，正式演讲前的礼貌问候）
 
