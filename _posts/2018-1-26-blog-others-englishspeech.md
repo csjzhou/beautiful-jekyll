@@ -29,15 +29,10 @@ This English speech is great and it is worth to read by any immigrants carefully
 
 Eddie Woo是标准的学霸，高中就读于新州排名第一的James Ruse,毕业时成绩排名处于全澳最顶尖的2%之列， 并在排名全球前三十的悉尼大学获得他的教育专业学位。Eddie 现在是全澳最大公立中学Cherrybrook Technology High School（2000余名学生）的首席数学老师。
 
-<p>
 <iframe width="500" hight="375" src="https://v.qq.com/iframe/preview.html?vid=w053875b53m&amp" frameborder="0" allowfullscreen ></iframe>
-</p>
 
-<video controls="controls" src="https://v.qq.com/iframe/preview.html?vid=w053875b53m&amp" width="100%"></video>
 
 [![addressvideo](https://v.qq.com/iframe/preview.html?vid=w053875b53m&amp/0.png)](https://v.qq.com/iframe/preview.html?vid=w053875b53m&amp)
-
-<div id="youkuplayerXMTI4MDczOTE4MA==" style="width:100%px;height:500px;"><object type="application/x-shockwave-flash" data="http://player.youku.com/player.php/sid/XMTI4MDczOTE4MA==/partnerid/b08888ceec175651/v.swf" width="100%" height="100%" id="youku-player"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="movie" value="http://player.youku.com/player.php/sid/XMTI4MDczOTE4MA==/partnerid/b08888ceec175651/v.swf"><param name="flashvars" value="imglogo=&amp;paid=0&amp;partnerId=b08888ceec175651&amp;styleid=0"></object></div>
 
 
 视频来自Eddie Woo的facebook.
