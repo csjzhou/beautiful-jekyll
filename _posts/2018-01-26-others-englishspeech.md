@@ -1,14 +1,27 @@
 ---
 layout: post
-title: Eddie Woo's Speech
+title: Eddie Woo's Australian Day's Address
 show-avatar: true
 tags:
   - others
-  - English speech
+  - English address
 published: true
 ---
+From: [亲历澳洲](http://mp.weixin.qq.com/s?__biz=MzA4ODU3MjI0NQ==&mid=2650627607&idx=1&sn=d41f8a240f04488d5e3b57c1a74b1a65&chksm=8821d62dbf565f3b2aa891d8fb86fafbaca097a350db3440d57741e663aa8610f3eb3c20304e&mpshare=1&scene=1&srcid=0125KJTyXAb9ikYsC0nDpYWX#rd)
+
 
 1月26日晚上，在悉尼音乐厅，Eddie Woo成为了澳洲史上第一位在国庆庆典上进行演讲的华裔（马来西亚华人，他的祖父母在上个世纪二十年代举家迁往马来西亚）。
+
+2012年，Eddie的一位学生由于罹患癌症而不能来校上课，Eddie开始录制自己上数学课的视频，从此一炮而红。他用非常生动和有创意的方法让学生不再对数学望而生畏，他的Youtube （他自己的视频界面命名为Wootube）在全世界都有众多粉丝，已经有超过100,000的订阅量，超过9,000,000观看过他的教学视频。
+
+32岁的Eddie现在已经是三个女儿的父亲，他有非常广泛的爱好，在Wootube上他也定期上传并教授如何自学吉他。
+
+同时，Eddie也是一个热衷公益的年轻人，课余，他是悉尼大学Sydney’s Widening Participation and Outreach program公益组织的志愿协调人，通过个人的努力帮助并激励了超过1400位处于社会底层的学生能够继续并完成学业。
+
+基于他在教学及公益上的杰出贡献，Eddie获得了2015 Premier’s Prize for Innovation in Science and Mathematics in NSW; the 2016 ChooseMATHS Teacher Excellence Award; the 2017 Sydney University Alumni Award: Outstanding Achievements for Young Alumni; 2017 Commonwealth Bank Teaching Fellowship; 2018 NSW Australia’s Local Hero; and a top 50 finalist in the 2018 Global Teacher Prize.
+
+以上是澳大利亚国庆日庆典上对Eddie的介绍，我做了简单的翻译。
+---
 
 This English speech is great and it is worth to read by any immigrants carefully.
 
