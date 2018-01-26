@@ -21,13 +21,15 @@ From: [亲历澳洲](http://mp.weixin.qq.com/s?__biz=MzA4ODU3MjI0NQ==&mid=265062
 基于他在教学及公益上的杰出贡献，Eddie获得了2015 Premier’s Prize for Innovation in Science and Mathematics in NSW; the 2016 ChooseMATHS Teacher Excellence Award; the 2017 Sydney University Alumni Award: Outstanding Achievements for Young Alumni; 2017 Commonwealth Bank Teaching Fellowship; 2018 NSW Australia’s Local Hero; and a top 50 finalist in the 2018 Global Teacher Prize.
 
 以上是澳大利亚国庆日庆典上对Eddie的介绍，我做了简单的翻译。
----
+
 
 This English speech is great and it is worth to read by any immigrants carefully.
 
 Eddie Woo是标准的学霸，高中就读于新州排名第一的James Ruse,毕业时成绩排名处于全澳最顶尖的2%之列， 并在排名全球前三十的悉尼大学获得他的教育专业学位。Eddie 现在是全澳最大公立中学Cherrybrook Technology High School（2000余名学生）的首席数学老师。
 
 视频来自Eddie Woo的facebook。
+
+## Address
 
 His Excellency the Governor of New South Wales and Mrs Hurley – the Honourable Gladys Berejiklian, Premier of New South Wales – Chairman and board members of the Australia Day Council of New South Wales, Distinguished Guests, Ladies and Gentlemen.（这一段翻译就免去了，正式演讲前的礼貌问候）
 
