@@ -37,6 +37,9 @@ Eddie Woo是标准的学霸，高中就读于新州排名第一的James Ruse,毕
 
 [![addressvideo](https://v.qq.com/iframe/preview.html?vid=w053875b53m&amp/0.png)](https://v.qq.com/iframe/preview.html?vid=w053875b53m&amp)
 
+<div id="youkuplayerXMTI4MDczOTE4MA==" style="width:100%px;height:500px;"><object type="application/x-shockwave-flash" data="http://player.youku.com/player.php/sid/XMTI4MDczOTE4MA==/partnerid/b08888ceec175651/v.swf" width="100%" height="100%" id="youku-player"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="movie" value="http://player.youku.com/player.php/sid/XMTI4MDczOTE4MA==/partnerid/b08888ceec175651/v.swf"><param name="flashvars" value="imglogo=&amp;paid=0&amp;partnerId=b08888ceec175651&amp;styleid=0"></object></div>
+
+
 视频来自Eddie Woo的facebook.
 
 ### Address
