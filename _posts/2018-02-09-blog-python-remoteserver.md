@@ -17,6 +17,7 @@ published: true
 remote_user@remote_host$ jupyter notebook --no-browser --port=8889
 ```
 
+
 - On the local machine, start an SSH tunnel:
 
 ```
@@ -27,11 +28,13 @@ The second option -f has the effect that SSH will go to background, so the local
 The last option -L lists the port forwarding configuration (remote port 8889 to local port 8888). Alternatively, you can start the tunnel without the -f option. 
 The process will then remain in the foreground and can be killed with ctrl-c.
 
+
 - Now open your browser on the local machine and type in the address line:
 
 ```
 localhost:8888
 ```
+
 
 - To close the SSH tunnel on the local machine, look for the process and kill it manually:
 
