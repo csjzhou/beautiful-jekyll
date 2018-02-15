@@ -5,12 +5,15 @@ title: Markdown Cheatsheet
 show-avatar: true
 tags:
   - blogs
+  - others
   - markdown
   - cheatsheet
 published: true
 ---
 
+
 ### Markdown Cheatsheet
+
 
 # Typography 
 
