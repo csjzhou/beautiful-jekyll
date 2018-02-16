@@ -14,6 +14,13 @@ published: true
 
 ## Dict, List to/from CSV
 
+
+[Read CSV file as Dictionary in Python](#csv2dict)
+[Write CSV from Dictionary in Python](#dict2csv)
+[Read CSV file as Lists in Python](#csv2list)
+[Write CSV from List in Python](#list2csv)
+
+
 Here is a CSV File Example:
 
 |Row|Name|Age|Country|
@@ -24,7 +31,7 @@ Here is a CSV File Example:
 |4|Alex|21|Germany|
 
 
-### Read CSV file as Dictionary in Python
+### Read CSV file as Dictionary in Python <a id="csv2dict"></a>
 Define correct path of the csv file in `csv_file` variable.
 
 ``` python
@@ -48,7 +55,7 @@ ReadCSVasDict(csv_file)
 ```
 
 
-### Generate CSV from Dictionary in Python
+### Write CSV from Dictionary in Python <a id="dict2csv"></a>
 Define correct path of the csv file in csv_file variable, CSV column names and dict data.
 
 ``` python
@@ -81,7 +88,7 @@ WriteDictToCSV(csv_file,csv_columns,dict_data)
 ```
 
 
-### Read CSV file as Lists in Python
+### Read CSV file as Lists in Python <a id="csv2list"></a>
 Define correct path of the csv file in `csv_file` variable. We may perform some additional operations like append additional data to list, removing csv headings(1st row) by doing a pop operation on the list like below.
 
 ``` python
@@ -104,11 +111,11 @@ currentPath = os.getcwd()
 csv_file = currentPath + "/csv/Names.csv"
 
 csv_data_list = ReadCSVasList(csv_file)
-print csv_data_list
+print(csv_data_list)
 
 # To Ignore 1st Row (Headers)          
 csv_data_list.pop(0)
-print csv_data_list
+print(csv_data_list)
 
 # append to list
 csv_data_list.append(['5', 'Jim', 18, 'USA'])
@@ -117,7 +124,7 @@ print(csv_data_list)
 ```
 
 
-### Generate CSV from List in Python
+### Write CSV from List in Python <a id="list2csv"></a>
 
 Define correct path of the csv file in `csv_file` variable, CSV column names and list data.
 ``` python
