@@ -27,7 +27,7 @@ Here is a CSV File Example:
 
 Define correct path of the csv file in `csv_file` variable.
 
-``` Python
+``` python
 import csv
 import os
 
@@ -50,4 +50,71 @@ ReadCSVasDict(csv_file)
 ### Generate CSV from Dictionary in Python
 
 Define correct path of the csv file in csv_file variable, CSV column names and dict data.
+
+``` python
+import csv
+import os
+
+def WriteDictToCSV(csv_file,csv_columns,dict_data):
+    try:
+        with open(csv_file, 'w') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+            writer.writeheader()
+            for data in dict_data:
+                writer.writerow(data)
+    except IOError as (errno, strerror):
+            print("I/O error({0}): {1}".format(errno, strerror))    
+    return            
+
+csv_columns = ['Row','Name', 'Age', 'Country']
+dict_data = [
+    {'Row': 1, 'Name': 'John', 'Age': 20, 'Country': 'Australia'},
+    {'Row': 2, 'Name': 'Peter', 'Age': 20, 'Country': 'USA'},
+    {'Row': 3, 'Name': 'Simon', 'Age': 25, 'Country': 'China'},
+    {'Row': 4, 'Name': 'Alex', 'Age': 21, 'Country': 'Germany'},
+    ]
+
+currentPath = os.getcwd()
+csv_file = currentPath + "/csv/Names.csv"
+
+WriteDictToCSV(csv_file,csv_columns,dict_data)
+```
+
+### Read CSV file as Lists in Python
+
+Define correct path of the csv file in `csv_file` variable. We may perform some additional operations like append additional data to list, removing csv headings(1st row) by doing a pop operation on the list like below.
+
+``` python
+import csv
+import os
+
+def ReadCSVasList(csv_file):
+    try:
+        with open(csv_file) as csvfile:
+            reader = csv.reader(csvfile, dialect='excel', quoting=csv.QUOTE_NONNUMERIC)
+            datalist = []
+            datalist = list(reader)
+            return datalist
+    except IOError as (errno, strerror):
+            print("I/O error({0}): {1}".format(errno, strerror))    
+    return        
+
+
+currentPath = os.getcwd()
+csv_file = currentPath + "/csv/Names.csv"
+
+csv_data_list = ReadCSVasList(csv_file)
+print csv_data_list
+
+# To Ignore 1st Row (Headers)          
+csv_data_list.pop(0)
+print csv_data_list
+
+# append to list
+csv_data_list.append(['6', 'Suresh', 'India'])
+
+print(csv_data_list)
+```
+
+
 
