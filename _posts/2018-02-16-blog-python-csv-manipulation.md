@@ -53,7 +53,7 @@ csv_file = currentPath + "/csv/Names.csv"
 
 ReadCSVasDict(csv_file)
 ```
-
+----
 
 ### Write CSV from Dictionary in Python <a id="dict2csv"></a>
 Define correct path of the csv file in csv_file variable, CSV column names and dict data.
@@ -86,7 +86,7 @@ csv_file = currentPath + "/csv/Names.csv"
 
 WriteDictToCSV(csv_file,csv_columns,dict_data)
 ```
-
+----
 
 ### Read CSV file as Lists in Python <a id="csv2list"></a>
 Define correct path of the csv file in `csv_file` variable. We may perform some additional operations like append additional data to list, removing csv headings(1st row) by doing a pop operation on the list like below.
@@ -122,7 +122,7 @@ csv_data_list.append(['5', 'Jim', 18, 'USA'])
 
 print(csv_data_list)
 ```
-
+----
 
 ### Write CSV from List in Python <a id="list2csv"></a>
 
@@ -156,5 +156,5 @@ csv_file = currentPath + "/csv/Names.csv"
 
 WriteListToCSV(csv_file,csv_columns,csv_data_list)
 ```
-
+----
 
