@@ -15,10 +15,10 @@ published: true
 ## Dict, List to/from CSV
 
 
-[Read CSV file as Dictionary in Python](#csv2dict)
-[Write CSV from Dictionary in Python](#dict2csv)
-[Read CSV file as Lists in Python](#csv2list)
-[Write CSV from List in Python](#list2csv)
+* [Read CSV file as Dictionary in Python](#csv2dict)
+* [Write CSV from Dictionary in Python](#dict2csv)
+* [Read CSV file as Lists in Python](#csv2list)
+* [Write CSV from List in Python](#list2csv)
 
 
 Here is a CSV File Example:
