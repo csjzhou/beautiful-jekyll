@@ -111,7 +111,7 @@ csv_data_list.pop(0)
 print csv_data_list
 
 # append to list
-csv_data_list.append(['6', 'Suresh', 'India'])
+csv_data_list.append(['5', 'Jim', 18, 'USA'])
 
 print(csv_data_list)
 ```
