@@ -127,7 +127,8 @@ import os
 def WriteListToCSV(csv_file,csv_columns,data_list):
     try:
         with open(csv_file, 'w') as csvfile:
-            writer = csv.writer(csvfile, dialect='excel', quoting=csv.QUOTE_NONNUMERIC)
+            writer = csv.writer(csvfile, dialect='excel', lineterminator = '\n', 
+                                quoting=csv.QUOTE_NONNUMERIC)
             writer.writerow(csv_columns)
             for data in data_list:
                 writer.writerow(data)
