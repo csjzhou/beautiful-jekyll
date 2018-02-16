@@ -11,6 +11,7 @@ tags:
 published: true
 ---
 
+
 ## Dict, List to/from CSV
 
 Here is a CSV File Example:
@@ -24,7 +25,6 @@ Here is a CSV File Example:
 
 
 ### Read CSV file as Dictionary in Python
-
 Define correct path of the csv file in `csv_file` variable.
 
 ``` python
@@ -47,8 +47,8 @@ csv_file = currentPath + "/csv/Names.csv"
 ReadCSVasDict(csv_file)
 ```
 
-### Generate CSV from Dictionary in Python
 
+### Generate CSV from Dictionary in Python
 Define correct path of the csv file in csv_file variable, CSV column names and dict data.
 
 ``` python
@@ -80,8 +80,8 @@ csv_file = currentPath + "/csv/Names.csv"
 WriteDictToCSV(csv_file,csv_columns,dict_data)
 ```
 
-### Read CSV file as Lists in Python
 
+### Read CSV file as Lists in Python
 Define correct path of the csv file in `csv_file` variable. We may perform some additional operations like append additional data to list, removing csv headings(1st row) by doing a pop operation on the list like below.
 
 ``` python
@@ -116,5 +116,37 @@ csv_data_list.append(['6', 'Suresh', 'India'])
 print(csv_data_list)
 ```
 
+
+### Generate CSV from List in Python
+
+Define correct path of the csv file in `csv_file` variable, CSV column names and list data.
+``` python
+import csv
+import os
+
+def WriteListToCSV(csv_file,csv_columns,data_list):
+    try:
+        with open(csv_file, 'w') as csvfile:
+            writer = csv.writer(csvfile, dialect='excel', quoting=csv.QUOTE_NONNUMERIC)
+            writer.writerow(csv_columns)
+            for data in data_list:
+                writer.writerow(data)
+    except IOError as (errno, strerror):
+            print("I/O error({0}): {1}".format(errno, strerror))    
+    return              
+
+csv_columns = ['Row','Name', 'Age', 'Country']
+csv_data_list = [
+    [1, 'John', 20, 'Australia'],
+    [2, 'Peter', 20, 'USA'],
+    [3, 'Simon', 25, 'China'],
+    [4, 'Alex', 21, 'Germany']
+    ]
+    
+currentPath = os.getcwd()
+csv_file = currentPath + "/csv/Names.csv"
+
+WriteListToCSV(csv_file,csv_columns,csv_data_list)
+```
 
 
