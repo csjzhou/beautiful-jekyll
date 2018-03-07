@@ -31,6 +31,7 @@ title: Links
 		  <li> Machine learning algorithms with Chinese notes. <a href="https://github.com/wepe/MachineLearning"> Link</a> </li>
 		  <li> Aerosolve: Machine learning for humans. <a href="http://nerds.airbnb.com/aerosolve/"> Link</a> </li>
 		  <li> Tutorial of TensorFlow and deep learning. <a href="https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0"> Link</a> </li>
+		<li>An executives guide to AI. <a href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai"> Link</a></li>
         </ol>
         
         <h3>Image Processing and Computer Vision</h3>
