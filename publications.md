@@ -138,6 +138,8 @@ Monica, CA USA
         
         <h3>Visualization and BioMedical Image Analysis </h3>
         <ol start="25"> <!-- -->	
+		  <li> X. Wang, D. Feng, G. Gong, H. Cui, J. Zhou, L. Wang, M. Fulham, S. Eberl, and Y. Yin. A Topo-Graph Model for Indistinct Target Boundary Definition from Anatomical Images. Computer Methods and Programs in Biomedicine, 2018.</li>
+		  
 		  <li>H. Cui, X. Wang, <b>Jianlong Zhou</b>, G. Gong, Y. Yin, and D. Feng. Computational Boundary Definition by Geodesic Graph Model.
 		  IEEE International Symposium on Biomedical Imaging (ISBI2017), pp. 1201-1204, Melbourne, Australia, 18-21 April 2017. (<a href="http://ieeexplore.ieee.org/document/7950732/">PDF</a>)</li> 
 		  <li><b>Jianlong Zhou</b>, Zelin Li, Zongjian Zhang, Bin Liang, and 
