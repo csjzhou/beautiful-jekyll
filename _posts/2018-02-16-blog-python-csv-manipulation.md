@@ -45,8 +45,8 @@ def ReadCSVasDict(csv_file):
             reader = csv.DictReader(csvfile)
             for row in reader:
                 print row['Row'], row['Name'], row['Country']
-    except IOError as (errno, strerror):
-            print("I/O error({0}): {1}".format(errno, strerror))    
+    except IOError as err:
+            print("I/O error({0})".format(err))    
     return
 
 currentPath = os.getcwd()
@@ -70,8 +70,8 @@ def WriteDictToCSV(csv_file,csv_columns,dict_data):
             writer.writeheader()
             for data in dict_data:
                 writer.writerow(data)
-    except IOError as (errno, strerror):
-            print("I/O error({0}): {1}".format(errno, strerror))    
+    except IOError as err:
+            print("I/O error({0})".format(err)    
     return            
 
 csv_columns = ['Row','Name', 'Age', 'Country']
@@ -103,8 +103,8 @@ def ReadCSVasList(csv_file):
             datalist = []
             datalist = list(reader)
             return datalist
-    except IOError as (errno, strerror):
-            print("I/O error({0}): {1}".format(errno, strerror))    
+    except IOError as err:
+            print("I/O error({0})".format(err))    
     return        
 
 
@@ -140,8 +140,8 @@ def WriteListToCSV(csv_file,csv_columns,data_list):
             writer.writerow(csv_columns)
             for data in data_list:
                 writer.writerow(data)
-    except IOError as (errno, strerror):
-            print("I/O error({0}): {1}".format(errno, strerror))    
+    except IOError as err:
+            print("I/O error({0})".format(err))    
     return              
 
 csv_columns = ['Row','Name', 'Age', 'Country']
