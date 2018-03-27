@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Matplotlib Plotting Methods
+title: 6 Matplotlib Plotting Methods
 show-avatar: true
 tags:
   - blogs
@@ -11,7 +11,7 @@ published: true
 ---
 
 
-## 5 Matplotlib Plotting Methods
+## 6 Matplotlib Plotting Methods
 
 
 
