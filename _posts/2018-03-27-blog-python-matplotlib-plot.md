@@ -20,6 +20,7 @@ published: true
 * [Histogram](#histogram)
 * [Overlaid Histogram](#overlaidhistogram)
 * [Bar Chart](barchart)
+* [Box Plot](boxplot)
 
 
 From [机器之心](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650738591&idx=2&sn=be82005eedd1edf650aee0d6059c2926)
