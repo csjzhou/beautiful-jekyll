@@ -23,6 +23,7 @@ From [机器之心](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=265073
 ### Scatter Plot <a id="scatterplot"></a>
 Draw scatterplot with scatter.
 
+![Scatterplot](./img/scatterplot.jpg)
 ``` python
 import matplotlib.pyplot as plt
 import numpy as np
