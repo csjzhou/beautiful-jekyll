@@ -55,6 +55,7 @@ def scatterplot(x_data, y_data, x_label="", y_label="", title="", color = "r", y
 
 ### Line Plot <a id="lineplot"></a>
 Draw lineplot.
+![lineplot.jpg]({{site.baseurl}}/img/lineplot.jpg)
 
 ``` python
 def lineplot(x_data, y_data, x_label="", y_label="", title=""):
@@ -74,6 +75,7 @@ def lineplot(x_data, y_data, x_label="", y_label="", title=""):
 
 ### Histogram <a id="histogram"></a>
 Draw histogram.
+![histogram.jpg]({{site.baseurl}}/img/histogram.jpg)
 
 ``` python
 def histogram(data, n_bins, cumulative=False, x_label = "", y_label = "", title = ""):
@@ -88,6 +90,7 @@ def histogram(data, n_bins, cumulative=False, x_label = "", y_label = "", title 
 
 ### Overlaid Histogram <a id="overlaidhistogram"></a>
 Draw overlaid histogram.
+![overlaidhistogram.png]({{site.baseurl}}/img/overlaidhistogram.png)
 
 ``` python
 # Overlay 2 histograms to compare them
@@ -116,6 +119,8 @@ def overlaid_histogram(data1, data2, n_bins = 0, data1_name="", data1_color="#53
 
 ### Bar Chart <a id="barchart"></a>
 Draw bar chart
+![groupedbarchart.png]({{site.baseurl}}/img/groupedbarchart.png)
+![stackedbarchart.png]({{site.baseurl}}/img/stackedbarchart.png)
 
 ``` python
 def barplot(x_data, y_data, error_data, x_label="", y_label="", title=""):
@@ -172,6 +177,8 @@ def groupedbarplot(x_data, y_data_list, colors, y_data_names="", x_label="", y_l
 
 ### Box Plot <a id="boxplot"></a>
 Draw boxplot.
+![boxplot.png]({{site.baseurl}}/img/boxplot.png)
+
 箱线图实线箱的底部表示第一个四分位数，顶部表示第三个四分位数，箱内的线表示第二个四分位数（中位数）。虚线表示数据的分布范围。
 
 由于箱线图是对单个变量的可视化，其设置很简单。x_data 是变量的列表。Matplotlib 函数 boxplot() 为 y_data 的每一列或 y_data 序列中的每个向量绘制一个箱线图，因此 x_data 中的每个值对应 y_data 中的一列/一个向量。
