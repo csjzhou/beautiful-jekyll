@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Variational Autoencoder: Intuition and Implementation"
+title:  Variational Autoencoder
 show-avatar: true
 tags:
   - blogs
   - python
-  - VAE
+  - matplotlib
 published: true
 ---
 
