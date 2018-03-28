@@ -1,22 +1,7 @@
 ---
-layout: post
-title: Variational Autoencoder: Intuition and Implementation
-show-avatar: true
-tags:
-  - blogs
-  - python
-  - vae
-  - plot
-published: true
----
-
-
-
-
----
 layout:     post
-title:      "Variational Autoencoder: Intuition and Implementation"
-subtitle:   "Variational Autoencoder (VAE) (Kingma et al., 2013) is a new perspective in the autoencoding business. It views Autoencoder as a bayesian inference problem: modeling the underlying probability distribution of data."
+title:      Variational Autoencoder: Intuition and Implementation
+subtitle:   Variational Autoencoder (VAE) (Kingma et al., 2013) is a new perspective in the autoencoding business. It views Autoencoder as a bayesian inference problem: modeling the underlying probability distribution of data.
 tags:
   - blogs
   - python
