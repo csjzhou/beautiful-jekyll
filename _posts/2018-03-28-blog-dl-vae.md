@@ -2,7 +2,6 @@
 layout:     post
 title:      "Variational Autoencoder: Intuition and Implementation"
 subtitle:   "Variational Autoencoder (VAE) (Kingma et al., 2013) is a new perspective in the autoencoding business. It views Autoencoder as a bayesian inference problem: modeling the underlying probability distribution of data."
-date:       2016-12-10 00:30
 author:     "wiseodd"
 tags:
   - blogs
@@ -278,7 +277,6 @@ We also saw the difference between VAE and GAN, the two most popular generative 
 For more math on VAE, be sure to hit the original paper by Kingma et al., 2014. There is also an excellent tutorial on VAE by Carl Doersch. Check out the references section below.
 
 The full code is available in my repo: <https://github.com/wiseodd/generative-models>
-
 
 <h2 class="section-heading">References</h2>
 
