@@ -13,7 +13,6 @@ published: true
 
 
 
-
 ---
 layout:     post
 title:      "Variational Autoencoder: Intuition and Implementation"
