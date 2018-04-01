@@ -2,11 +2,7 @@
 layout: post
 title: 6 Matplotlib Plotting Methods
 show-avatar: true
-tags:
-  - blogs
-  - python
-  - matplotlib
-  - plot
+tags:[blogs, python, matplotlib, plot]
 published: true
 ---
 

@@ -11,7 +11,11 @@ title: csjzhou.github.io
 
 # Short description of your site
 <<<<<<< HEAD
+<<<<<<< HEAD
 description: Academic website and blog
+=======
+description: "Welcome to Jianlong Zhou's Homepage"
+>>>>>>> eba8fe70c5bcb8203c681fa292bbf2e7c719084f
 
 # --- Navigation bar options --- #
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -247,13 +251,15 @@ exclude:
   - CHANGELOG.md
   - CNAME
   - Dockerfile
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
+<<<<<<< HEAD
   - Vagrantfile
   - appveyor.yml
   - tools/
+=======
+
+>>>>>>> eba8fe70c5bcb8203c681fa292bbf2e7c719084f
 # prose.io config
 prose:
   rooturl: '_posts'
@@ -268,6 +274,7 @@ prose:
     - /css
     - /img
     - /js
+<<<<<<< HEAD
   metadata:
     _posts:
       - name: "layout"
@@ -312,6 +319,46 @@ piwik:
 
 gist:
   noscript: false
+=======
+    
+metadata:
+  _posts:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "post"
+    - name: "title"
+      field:
+        element: "text"
+        label: "Post title"
+        placeholder: "Title"
+        alterable: true
+    - name: "subtitle"
+      field:
+        element: "textarea"
+        label: "Subtitle"
+        placeholder: "A description of your post."
+        alterable: true
+    - name: "date"
+      field:
+        element: "text"
+        label: "Date"
+        help: "Enter date of post."
+        placeholder: "yyyy-mm-dd"
+        alterable: true
+    - name: "image"
+      field:
+        element: "text"
+        label: "Image"
+        help: "Add a thumbnail image to your post."
+        placeholder: "Thumbnail"
+        alterable: true
+    - name: "published"
+      field:
+        element: "checkbox"
+        label: "Publish"
+        help: "Check to publish post, uncheck to hide."
+>>>>>>> eba8fe70c5bcb8203c681fa292bbf2e7c719084f
 
 plugins:
   - jekyll-paginate
