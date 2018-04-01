@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 User-agent: *
 Sitemap: https://ocram85.github.io/sitemap.xml
+=======
+User-agent: *
+Sitemap: https://csjzhou.github.io/sitemap.xml
+>>>>>>> f0617de0a0a294ed9d9bb76fe26f5fec1d0ae127

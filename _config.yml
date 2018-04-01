@@ -61,9 +61,9 @@ navbar-links:
 
 # --- Google custom search config --- #
 # search page name search -> /seach.md
-nav-search: "search"
+#nav-search: "search"
 # google-site-verification
-#google-site-verification: 'mR7a1gt3MOM9w2PBMfwsJ2QyOwA8emkKgSFj5bvLgbU'
+#google-site-verification: 'SDbEwJuI9jkW1VQ2BuIkjkxV8kMAFhDxoKfrFJhFikw'
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -254,7 +254,57 @@ exclude:
   - Vagrantfile
   - appveyor.yml
   - tools/
-
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 # --- Piwik Integration --- #
 piwik:
   site_id: "2"
@@ -271,6 +321,7 @@ plugins:
 =======
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
 
 >>>>>>> 7e90b91a36a856dd6647480a4382ff3612e3e1c6
 # Beautiful Jekyll / Dean Attali
