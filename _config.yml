@@ -53,26 +53,22 @@ description: "Welcome to Jianlong Zhou's Homepage"
 
 # List of links in the navigation bar
 navbar-links:
-  Blog:
-    - Posts: "blog"
-    - Tags: "tags"
-  Resources:
-    - Powershell: "powershell-resources"
-  About:
-    - Me: "aboutme"
-    - This Blog: "aboutthisblog"
-
+  Home: "index"
+  Research: "research"
+  Publications: "publications"
+  Links: "links"
+  Blog: "blog"
 
 # --- Google custom search config --- #
 # search page name search -> /seach.md
 nav-search: "search"
 # google-site-verification
-google-site-verification: 'mR7a1gt3MOM9w2PBMfwsJ2QyOwA8emkKgSFj5bvLgbU'
+#google-site-verification: 'mR7a1gt3MOM9w2PBMfwsJ2QyOwA8emkKgSFj5bvLgbU'
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.jpeg"
+#avatar: "/img/avatar-icon.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -106,6 +102,9 @@ footer-img: "/img/concrete-texture.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 33e653ccf3212612fa480f1b10469c976f0180fa
   name: Jianlong Zhou
   email: "youremail@domain.com"
   #github: yourname    # eg. daattali
@@ -126,6 +125,7 @@ footer-links-active:
   stackoverflow: false
   instagram: false
   youtube: false
+<<<<<<< HEAD
 =======
   name: OCram85
 
@@ -153,6 +153,8 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
 >>>>>>> 7e90b91a36a856dd6647480a4382ff3612e3e1c6
+=======
+>>>>>>> 33e653ccf3212612fa480f1b10469c976f0180fa
 
 # Select which share links to show in posts
 share-links-active:
@@ -175,7 +177,7 @@ paginate_path: "/blog/page:num/"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "OCram85"
+#disqus: "OCram85"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-111658972-1"
@@ -199,6 +201,7 @@ title-separator: "-"
 
 # Output options (more information on Jekyll's site)
 <<<<<<< HEAD
+<<<<<<< HEAD
 timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
@@ -206,6 +209,9 @@ permalink: /:year-:month-:day-:title/
 
 =======
 timezone: "Europe/Berlin"
+=======
+timezone: "Australia/Sydney"
+>>>>>>> 33e653ccf3212612fa480f1b10469c976f0180fa
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
