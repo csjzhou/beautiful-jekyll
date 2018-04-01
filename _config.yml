@@ -10,6 +10,7 @@ baseurl: ""
 title: csjzhou.github.io
 
 # Short description of your site
+<<<<<<< HEAD
 description: Academic website and blog
 
 # --- Navigation bar options --- #
@@ -45,6 +46,58 @@ nav-search: "search"
 #footer-col: "blue"
 #footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
+=======
+description: "Welcome to Jianlong Zhou's Homepage"
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  Blog:
+    - Posts: "blog"
+    - Tags: "tags"
+  Resources:
+    - Powershell: "powershell-resources"
+  About:
+    - Me: "aboutme"
+    - This Blog: "aboutthisblog"
+
+
+# --- Google custom search config --- #
+# search page name search -> /seach.md
+nav-search: "search"
+# google-site-verification
+google-site-verification: 'mR7a1gt3MOM9w2PBMfwsJ2QyOwA8emkKgSFj5bvLgbU'
+
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar-icon.jpeg"
+
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+#title-img: "/img/avatar-icon.png"
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+navbar-img: "/img/concrete-texture.png"
+footer-img: "/img/concrete-texture.png"
+>>>>>>> 7e90b91a36a856dd6647480a4382ff3612e3e1c6
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -52,6 +105,7 @@ nav-search: "search"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
+<<<<<<< HEAD
   name: Jianlong Zhou
   email: "youremail@domain.com"
   #github: yourname    # eg. daattali
@@ -72,6 +126,33 @@ footer-links-active:
   stackoverflow: false
   instagram: false
   youtube: false
+=======
+  name: OCram85
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+  github: OCram85
+  stackoverflow: "5222635/ocram85"
+  twitter: tar_honar
+  email: "marco.blessing@googlemail.com"
+  linkedin: marco-blessing-884642109
+  rss: true
+#  facebook: daattali
+#  reddit: yourname
+#  google-plus: +DeanAttali
+#  xing: yourname
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+>>>>>>> 7e90b91a36a856dd6647480a4382ff3612e3e1c6
 
 # Select which share links to show in posts
 share-links-active:
@@ -82,21 +163,25 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
+<<<<<<< HEAD
 url-pretty: "csjzhou.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Pagination options --- #
 paginate: 5
 paginate_path: "/blog/page:num/"
+=======
+#url-pretty: "OCram85.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+>>>>>>> 7e90b91a36a856dd6647480a4382ff3612e3e1c6
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "OCram85"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-111658972-1"
 
 # Google Tag Manager ID
-#gtm: ""
+#gtm: "GTM-TKDTDKW"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -113,11 +198,20 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
+<<<<<<< HEAD
 timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 
+=======
+timezone: "Europe/Berlin"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+>>>>>>> 7e90b91a36a856dd6647480a4382ff3612e3e1c6
 
 kramdown:
   input: GFM
@@ -137,10 +231,10 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false
 
-# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: false
+# Use tags index page and make tags on each post clickable
+link-tags: true
 
 # Exclude these files from production site
 exclude:
@@ -152,62 +246,26 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - appveyor.yml
+  - tools/
 
-# prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+# --- Piwik Integration --- #
+piwik:
+  site_id: "2"
+  uri: "piwik.beaver-net.ovh"
+
+gist:
+  noscript: false
 
 plugins:
   - jekyll-paginate
+<<<<<<< HEAD
   - jekyll-seo-tag
   
+=======
+  - jekyll-sitemap
+  - jekyll-gist
+
+>>>>>>> 7e90b91a36a856dd6647480a4382ff3612e3e1c6
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
