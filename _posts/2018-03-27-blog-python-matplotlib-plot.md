@@ -13,7 +13,7 @@ published: true
 
 ## 6 Matplotlib Plotting Methods
 
-
+These methods include:
 
 * [Scatter Plot](#scatterplot)
 * [Line Plot](#lineplot)
